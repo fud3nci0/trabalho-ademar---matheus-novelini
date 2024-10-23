@@ -1,0 +1,76 @@
+.title {
+    position: relative;
+    top: 190px;
+    font-size: 30px;
+    }
+
+
+
+    *{
+
+        margin: 0px;
+    }
+
+
+
+    .cima {
+        display: flex;
+        justify-content: space-between;
+        
+        background-color: greenyellow;
+        
+        }
+        
+
+        .img1 {
+     
+    width: 400px;
+
+        }
+
+        .img2 {
+width: 400px;
+height: 300px;
+
+        }
+        .img3 {
+            width: 400px;
+height: 300px;
+        }
+
+        .sect1 {
+  justify-content: space-around;
+display: flex;
+        }
+        
+
+        .sect2 {
+            justify-content: space-around;
+            display: flex;
+            padding-bottom: 70px ;
+
+        }
+
+        .rodape {
+            display: flex;
+            background-color: yellow;
+          
+            
+            }
+            
+            .zap {
+             height: 100px;
+            
+            }
+            .tt {
+
+                background-color: yellow;
+            
+            
+            
+            }
+            .aa{
+        
+                padding-top: 20px
+            
+            }

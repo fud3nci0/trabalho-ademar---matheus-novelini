@@ -1,0 +1,126 @@
+.cima {
+display: flex;
+justify-content: space-between;
+
+background-color: greenyellow;
+
+}
+
+.title {
+position: relative;
+top: 190px;
+font-size: 60px;
+}
+
+
+*{
+
+    margin: 0px;
+}
+
+.soja1 {
+height: 300px;
+
+
+}
+
+.sect1 {
+display: flex;
+justify-content: space-around;
+padding-top: 50px;
+
+}
+
+.drone1 {
+    height: 300px;
+ 
+
+}
+
+
+.sect2 {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+    padding-bottom: 70px;
+}
+
+.semente {
+position: relative;
+right: 40px;
+
+}
+
+.dronemap {
+
+    position: relative;
+    right: 40px;
+
+}
+
+
+.tt {
+
+    background-color: yellow;
+
+
+
+}
+
+
+
+.rodape {
+display: flex;
+background-color: yellow;
+
+
+}
+
+.zap {
+ height: 100px;
+
+
+}
+
+.aa{
+
+    padding-top: 20px
+
+}
+
+.maq1 {
+
+    height: 300px;
+
+}
+
+.maqui {
+font-size: 20px;
+
+}
+
+.drone {
+    font-size: 20px;
+position: relative;
+left: -130px;
+
+}
+
+.sementes {
+    font-size: 20px;
+    position: relative;
+    left: -50px;
+
+}
+
+.texto {
+
+
+
+}
+
+.sect4 {
+
+text-align: center;
+
+}

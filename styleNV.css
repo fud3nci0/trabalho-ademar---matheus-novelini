@@ -1,0 +1,55 @@
+.cb {
+    background-color: greenyellow;
+    display: flex;
+}
+
+.tit{
+    text-align: center;
+    color: black;
+}
+
+.img1 {
+    justify-content: flex-start;
+}
+
+.img2 { 
+position: relative;
+left: 653px;
+}
+
+.tit2 {
+   position: relative;
+   left: 325px;
+}
+
+.tit01{
+    text-align: center;
+    color: black;
+    font-size: 40px;
+}
+
+.dron{
+    height: 300px;
+}
+
+.frek{
+    display: flex;
+}
+
+.dv{
+   padding-left: 10px;
+
+}
+
+*{margin: 0%;}
+
+.price{
+    font-size: 80px;
+    padding-left: 280px;
+    padding-top: 90px;
+}
+
+.bx{
+    background-color: yellow;
+    display: flex;
+}

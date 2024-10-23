@@ -1,0 +1,64 @@
+* {
+    margin: 0px;
+}
+
+.cabecalho{background-color: rgb(58, 167, 54);
+display: flex;
+justify-content: space-between;
+}
+
+.titulo{padding: 6%;
+ font-size: 300%;
+ margin-left: 12%;
+}
+
+.sub{padding: 0%;}
+
+.soja{width: 20%;
+}
+
+.separacao{
+    background-color: rgb(255, 255, 255);
+    padding: 1%;
+}
+
+.imagens{
+    width: 15%;
+    margin-left: 3%;
+}
+
+.linha{
+    display: flex;
+    margin-right: 3%;
+    color: rgb(0, 0, 0);
+    padding: 2%;
+}
+
+.lista{
+    padding: 3%;
+}
+
+.rodape {
+    display: flex;
+    background-color: yellow;
+    
+    
+    }
+    
+    .zap {
+     height: 100px;
+    
+    
+    }
+    .tt {
+
+        background-color: yellow;
+    
+    
+    
+    }
+    .aa{
+
+        padding-top: 20px
+    
+    }
